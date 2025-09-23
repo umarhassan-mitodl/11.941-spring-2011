@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ]
+  ],
+  "legacy_uid": "2c391712-d5ef-f530-c1d9-52cb10e86262",
+  "instructors": {
+    "content": [
+      "46194c03-6363-6120-8b6a-349d4856558d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "95fbd583-f123-324c-9859-7291070a6ab6",
+    "website": "11-941-urban-climate-adaptation-spring-2011"
+  },
+  "course_title": "Urban Climate Adaptation",
+  "course_description": "\"Designing a dream city is easy. Rebuilding a living one takes imagination.\"\u00a0\u00a0\u00a0 -Jane Jacobs\n\nThis course examines the challenges that cities will face and strategies they can use to prepare for the impacts of climate change. Particular attention will be paid to the presence of global disparities, the needs of vulnerable populations and resource constrained locales, and the ways in which local government and community-based activities can achieve equitable levels of climate-readiness.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.941",
+  "course_image_thumbnail": {
+    "content": "4c723442-7620-189b-357c-884cc65006bc",
+    "website": "11-941-urban-climate-adaptation-spring-2011"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Projects with Examples",
+    "Media Assignments with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "d3b5c37c-954e-4baa-ae97-b062761f89cd",
+  "site_short_id": "11.941-spring-2011",
+  "site_url_path": "courses/11-941-urban-climate-adaptation-spring-2011",
+  "title": "Course Metadata"
+}
