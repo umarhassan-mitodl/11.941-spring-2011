@@ -31,14 +31,14 @@ URBAN RESILIENCY
 {{< tdopen >}}
 
 
-{{% resource_link "aae96988-3581-4fb5-b9a9-7ba307a25bbd" "London flooded" %}}
+[London flooded](http://news.bbc.co.uk/2/shared/spl/hi/pop_ups/07/uk_enl_1185603003/html/1.stm)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{% resource_link "f9e234a9-721f-4337-acc0-a2ca13d5d8df" "Floating town in the Netherlands" %}}
+[Floating town in the Netherlands](https://www.technologyreview.com/2007/07/01/224741/saving-holland/)
 
 
 {{< tdclose >}}
@@ -82,14 +82,14 @@ MIT's campus near Charles River floodplain
 {{< tdopen >}}
 
 
-{{% resource_link "4fca66f7-9bc3-4bd1-a44e-01a154139354" "Flooding of New Orleans after Hurricane Katrina" %}}
+[Flooding of New Orleans after Hurricane Katrina](http://2.bp.blogspot.com/_IX8poG1JX9c/SedZFL5A-mI/AAAAAAAAAVY/WF8bDdOd_yw/s400/amazing_natural_disasters_photos_04.jpg)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{% resource_link "7be6871f-50fa-494d-a678-73e5aefe457b" "Floating New Orleans" %}} 
+[Floating New Orleans](http://cdn.ebaumsworld.com/thumbs/video/361797/81731411.jpg) 
 
 
 {{< tdclose >}}
